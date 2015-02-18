@@ -10,18 +10,14 @@
     </head>
     <body>
         
-        <h1>GETTING STARTED WITH BRACKETS</h1>
+        <h1>GETTING STARTED WITH GIT</h1>
         <h2>This is your guide!</h2>
         
         <!--
             MADE WITH <3 AND JAVASCRIPT
         -->
         
-        <p>
-            Welcome to Brackets, a modern open-source code editor that understands web design. It's a lightweight, 
-            yet powerful, code editor that blends visual tools into the editor so you get the right amount of help 
-            when you want it.
-        </p>
+        
         
         <!--
             WHAT IS BRACKETS?
